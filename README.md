@@ -1,1 +1,1 @@
-# DDP-Project
+# My dual degree project at Idian Institute of Technology Madras was based on topological sensitivity anlyses in S. Cerevisiae. I explored various statistical and mathematical modelling based methods during the two-year period of this project. I have attached the project report and if you have any more questions, please feel free to reach out to me.
